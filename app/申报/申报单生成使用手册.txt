@@ -1,0 +1,24 @@
+申报单生成使用手册
+
+1. 从在线表格中获取单sheet的包裹表格，下载
+2. 执行
+python tiktok_declaration_generator.py TIKTOK JD
+
+，得到“To Ship order-2026-06-08-15_15-申报单.xlsx”
+3. 填入其他必填项
+
+
+
+
+命令行
+1. 打开命令行
+   1.1 打开快速选择对话框
+   1.2 输入“cmd”
+
+2. 常用命令
+    C:\Users\Feiyuf\Desktop\Cards\包裹
+cd 进入文件夹
+   返回上一级文件夹 cd..
+   转换到不同的盘符 D:
+目前文件所在地址：
+dir，查看文件夹
